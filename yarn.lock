@@ -4428,9 +4428,9 @@ react-devtools-core@^2.5.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-"react-native-safe-module@git://github.com/sweatco/react-native-safe-module.git#864dbc2c51f2aaecf954b310c22dbeaab02387b7":
+"react-native-safe-module@git://github.com/nomi9995/react-native-safe-module.git#8546330b58b43c46ed24a4a4fc505934f7ffa963":
   version "1.2.0"
-  resolved "git://github.com/sweatco/react-native-safe-module.git#864dbc2c51f2aaecf954b310c22dbeaab02387b7"
+  resolved "git://github.com/nomi9995/react-native-safe-module.git#8546330b58b43c46ed24a4a4fc505934f7ffa963"
   dependencies:
     dedent "^0.6.0"
 
